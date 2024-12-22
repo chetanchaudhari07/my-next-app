@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Logo from '@/assets/pngwing.com.png'
+
 
 export function Footer() {
     return (
