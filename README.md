@@ -10,6 +10,9 @@ Next.js: A React framework for building static and dynamic websites.
 
 TypeScript: A strongly-typed superset of JavaScript for enhanced development experience.
 
+
+#Vercel Deploy Link : https://my-next-app-cyan-mu.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
