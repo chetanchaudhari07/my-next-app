@@ -15,22 +15,34 @@ export function Footer() {
           </a>
           <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
             <li>
-              <a href="#" className="hover:underline me-4 md:me-6">
+              <a href="https://github.com/chetanchaudhari07"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:underline me-4 md:me-6">
                 About
               </a>
             </li>
             <li>
-              <a href="#" className="hover:underline me-4 md:me-6">
-                Privacy Policy
+              <a href="https://www.linkedin.com/in/chetan-chaudhari-97740021b/"
+              target="_blank"
+              rel="noopener noreferrer"
+               className="hover:underline me-4 md:me-6">
+                Linkedin
               </a>
             </li>
             <li>
-              <a href="#" className="hover:underline me-4 md:me-6">
-                Licensing
+              <a href="https://chetanchaudhari07.github.io/portfolio.github.io/"
+              target="_blank"
+              rel="noopener noreferrer"
+               className="hover:underline me-4 md:me-6">
+                Portfolio
               </a>
             </li>
             <li>
-              <a href="#" className="hover:underline">
+              <a href="https://drive.google.com/file/d/1nIihUuUf3RYMccafVseq_QcrUOU2_ldR/view?usp=drive_link"
+              target="_blank"
+              rel="noopener noreferrer"
+               className="hover:underline">
                 Contact
               </a>
             </li>

@@ -3,8 +3,8 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <main className="w-full">
-      <div className="min-h-screen flex flex-col">
+    <main className="w-full bg-black">
+      <div className="min-h-screen flex flex-col gap-4">
       
         <div
           className="bg-cover bg-center"
@@ -29,8 +29,7 @@ export default function Home() {
         <div
           className="bg-cover bg-center relative"
           style={{
-            backgroundImage:
-              "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCULp5wAeJSuWnZmR8C-0F6x8YQBTOnzJYPQ&s')",
+           backgroundImage:'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcsrgAgt0Bai5i2X2pH5AU8q594r4H2DWKQ&s)',
             height: '50vh', 
           }}
         >
